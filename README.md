@@ -62,3 +62,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<h3 align="left">"If you need someone who can bring your ideas to life with a responsive and elegant design, you're in the right place! 🚀"</h3>
+
+###
