@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,30&height=180&section=header&text=Hi,%20I'm%20Vlady%20⚡&fontSize=42&animation=fadeIn&fontColor=ffffff" />
-</p>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="30px"> 
+  Hey! I'm <b>Vlady</b>
+</h1>
 <p align="center">
   🧠 <b>Software Engineer</b> • 🎨 <b>Web Developer</b> • 🔌 <b>Network & Telecom Specialist</b>
 </p>
