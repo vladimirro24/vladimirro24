@@ -12,11 +12,6 @@
 
 <br>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vladimir-rodriguez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -56,12 +51,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,slack&perline=12" alt="Tools">
 </p>
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vladimirro24&show_icons=true&hide_border=true&theme=transparent&title_color=2F8F5B&icon_color=2F8F5B&text_color=808080" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirro24&layout=compact&hide_border=true&theme=transparent&title_color=2F8F5B&text_color=808080" alt="Top languages">
-</p>
 
 ---
 
