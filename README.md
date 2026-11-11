@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Vlady <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3372f155-ca6a-46ec-87dd-cb4f73bbc948" />
-</h1>
+<h1 align="center">Hi, I'm Vlady</h1>
 <h3 align="center">Software Engineer · Web Developer · Network &amp; Telecom Specialist</h3>
 
 <p align="center">
@@ -27,7 +26,7 @@
 - 🌐 Front-end focus (React, Tailwind), comfortable with Node.js and Python
 - 📡 Real-world experience in networking, monitoring systems and data centers
 - 🗣️ Spanish (native) · English (B2)
-- 🏊 Outside of code: swimming and pandas
+- 🏊 Outside of code: swimming and bike 🚲
 
 ### 📈 Impact
 
