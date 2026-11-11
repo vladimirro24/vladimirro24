@@ -1,15 +1,20 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="30px"> 
-  Hey! I'm <b>Vlady</b>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Hey+there!+%F0%9F%90%A7;I'm+Vlady+%E2%9A%A1;Software+Engineer;Web+Developer;Network+%26+Telecom+Specialist" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  🧠 <b>Software Engineer</b> • 🎨 <b>Web Developer</b> • 🔌 <b>Network & Telecom Specialist</b>
+  <em>"Building seamless web experiences from the frontend pixels to the network cables."</em>
 </p>
 
 <p align="center">
-  ⚡ <i>I design sleek, responsive interfaces and master the physical & logical infrastructure behind them.</i>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,c,python,linux,bash" />
+  </a>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vlady&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views"/>
+</div>
 <br>
 
 <p align="center">
