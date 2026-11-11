@@ -1,9 +1,7 @@
-<!-- BANNER DE ENCABEZADO ANIMADO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Hi,%20I'm%20Vlady%20⚡&fontSize=48&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
-<!-- SUBTÍTULO CON TEXTO DINÁMICO -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer;Network+%26+Telecom+Specialist;Bridge+between+Code+%26+Infrastructure" alt="Typing SVG" />
 </div>
@@ -12,7 +10,6 @@
   <em>"Engineering high-performance web platforms while mastering the physical & logical network infrastructure underneath."</em>
 </p>
 
-<!-- BOTONES DE CONTACTO DIRECTO (RECRUITER-FRIENDLY) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vladimir-rodriguez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,11 +44,9 @@
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,python,c,cpp,mysql&perline=12" alt="Languages and frameworks">
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,slack&perline=12" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,python,c,cpp,mysql&perline=12" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,slack&perline=12" alt="Tools" />
 </p>
-
 
 ---
 
