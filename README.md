@@ -1,20 +1,22 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Hey+there!+%F0%9F%90%A7;I'm+Vlady+%E2%9A%A1;Software+Engineer;Web+Developer;Network+%26+Telecom+Specialist" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="30px"> 
+  Hey! I'm <b>Vlady</b>
+</h1>
+
+<h3 align="center">
+  🚀 Software Engineer &nbsp;|&nbsp; 💻 Web Developer &nbsp;|&nbsp; 📡 Network & Telecom Specialist
+</h3>
 
 <p align="center">
-  <em>"Building seamless web experiences from the frontend pixels to the network cables."</em>
+  ✨ <i>Connecting the dots between high-performance web applications and robust infrastructure.</i> ✨
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,c,python,linux,bash" />
-  </a>
+  <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack_%26_Networks-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vlady&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views"/>
-</div>
+
 <br>
 
 <p align="center">
