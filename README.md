@@ -1,62 +1,58 @@
-<h2 align="left">Hi 👋! My name is Vlady and I'm a Software Engineer from Mexico who web design!</h2>
+<h1 align="center">Hi, I'm Vlady 🐼</h1>
+<h3 align="center">Software Engineer · Web Developer · Network &amp; Telecom Specialist</h3>
 
-###
+<p align="center">
+  <em>I build responsive, elegant interfaces and I understand the infrastructure they run on.</em>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladimirro24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-###
-
-<img align="right" height="150" src="https://i.gifer.com/origin/22/22f37c8f7601e0f4847e99442433c5c4_w200.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/vladimir-rodriguez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USER">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
+  <a href="https://vladimirro-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2F8F5B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:dev.vladimirro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-14181A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+### 👨‍💻 About me
 
-<h3 align="left">"If you need someone who can bring your ideas to life with a responsive and elegant design, you're in the right place! 🚀"</h3>
+- 🎓 B.Sc. in Software Engineering, University of Colima
+- 📍 Based in Mexico · open to remote work and relocation
+- 🌐 Front-end focus (React, Tailwind), comfortable with Node.js and Python
+- 📡 Real-world experience in networking, monitoring systems and data centers
+- 🗣️ Spanish (native) · English (B2)
+- 🏊 Outside of code: swimming and pandas
 
-###
+### 📈 Impact
+
+| Result | Where |
+| --- | --- |
+| Incidents reduced from **50 per day to 40 per week** | Seguritech |
+| Course enrollment grew from **3 to 100+** researchers | Invifar |
+| Wi-Fi 6 network for **~10,000 users** | University of Colima |
+
+### 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,python,c,cpp,mysql&perline=12" alt="Languages and frameworks">
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,slack&perline=12" alt="Tools">
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vladimirro24&show_icons=true&hide_border=true&theme=transparent&title_color=2F8F5B&icon_color=2F8F5B&text_color=808080" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirro24&layout=compact&hide_border=true&theme=transparent&title_color=2F8F5B&text_color=808080" alt="Top languages">
+</p>
+
+---
+
+<p align="center">
+  <em>"If you need someone who can bring your ideas to life with a responsive and elegant design, you're in the right place."</em> 🚀
+</p>
