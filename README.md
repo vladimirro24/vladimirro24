@@ -1,12 +1,24 @@
-<h1 align="center">Hi, I'm Vlady</h1>
-<h3 align="center">Software Engineer · Web Developer · Network &amp; Telecom Specialist</h3>
-
 <p align="center">
-  <em>I build responsive, elegant interfaces and I understand the infrastructure they run on.</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,30&height=180&section=header&text=Hi,%20I'm%20Vlady%20⚡&fontSize=42&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USER">
+  🧠 <b>Software Engineer</b> • 🎨 <b>Web Developer</b> • 🔌 <b>Network & Telecom Specialist</b>
+</p>
+
+<p align="center">
+  ⚡ <i>I design sleek, responsive interfaces and master the physical & logical infrastructure behind them.</i>
+</p>
+
+<br>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide=html,css"/>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vladimir-rodriguez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://vladimirro-portfolio.vercel.app/">
