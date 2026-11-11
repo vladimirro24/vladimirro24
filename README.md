@@ -1,33 +1,30 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="30px"> 
-  Hey! I'm <b>Vlady</b>
-</h1>
-
-<h3 align="center">
-  🚀 Software Engineer &nbsp;|&nbsp; 💻 Web Developer &nbsp;|&nbsp; 📡 Network & Telecom Specialist
-</h3>
-
+<!-- BANNER DE ENCABEZADO ANIMADO -->
 <p align="center">
-  ✨ <i>Connecting the dots between high-performance web applications and robust infrastructure.</i> ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Hi,%20I'm%20Vlady%20⚡&fontSize=48&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
+<!-- SUBTÍTULO CON TEXTO DINÁMICO -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer;Network+%26+Telecom+Specialist;Bridge+between+Code+%26+Infrastructure" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack_%26_Networks-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <em>"Engineering high-performance web platforms while mastering the physical & logical network infrastructure underneath."</em>
 </p>
 
-
-<br>
-
+<!-- BOTONES DE CONTACTO DIRECTO (RECRUITER-FRIENDLY) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vladimir-rodriguez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://vladimirro-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2F8F5B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <a href="https://TU_PORTAFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:dev.vladimirro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-14181A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:TU_CORREO@EMAIL.COM">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://TU_LINK_A_TU_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume_/_CV-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
