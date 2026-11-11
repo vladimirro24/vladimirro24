@@ -14,17 +14,14 @@
 
 <!-- BOTONES DE CONTACTO DIRECTO (RECRUITER-FRIENDLY) -->
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/vladimir-rodriguez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://TU_PORTAFOLIO.com" target="_blank">
+  <a href="https://vladimirro-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO@EMAIL.COM">
+  <a href="mailto:dev.vladimirro@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://TU_LINK_A_TU_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_/_CV-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
@@ -36,7 +33,7 @@
 - 📍 Based in Mexico · open to remote work and relocation
 - 🌐 Front-end focus (React, Tailwind), comfortable with Node.js and Python
 - 📡 Real-world experience in networking, monitoring systems and data centers
-- 🗣️ Spanish (native) · English (B2)
+- 🗣️ Spanish (native) · English (C1)
 - 🏊 Outside of code: swimming and bike 🚲
 
 ### 📈 Impact
